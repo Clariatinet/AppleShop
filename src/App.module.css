@@ -9,3 +9,13 @@
   background-position: center;
   background-size: cover;
 }
+
+.home,
+.detail {
+  text-decoration: none;
+  color: white;
+}
+
+.home {
+  margin-right: 10px;
+}
